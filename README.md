@@ -5,4 +5,6 @@
 
 [Скачать последний релиз](https://github.com/andr1312e/PMShop/releases/tag/2.0)
 
+[Вики](https://github.com/andr1312e/PMShop/wiki)
+
 Ждем ваших отзывов. Спасибо за внимание.
